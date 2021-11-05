@@ -12,8 +12,7 @@ l=parseInt(l);
 m=parseInt(m);
 console.log(l+m); // 3 //
 
-var g=1;
-console.log(g); 
+
 
 
 
