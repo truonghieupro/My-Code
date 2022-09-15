@@ -1,5 +1,20 @@
-# My-Code
-git branch -m master main
-git fetch origin
-git branch -u origin/main main
-git remote set-head origin -a 
+git clone : tạo một bản sao làm việc cục bộ với kho lưu trữ từ xa
+git init : tạo một kho lưu trữ
+git add : thêm các file vào stage/index
+git commit -m : ghi lại những thay đổi được thực hiện đối với file vào local repository
+git push : gửi commit đến kho lưu trữ từ xa
+git pull : tải phiên bản mới nhất của repository
+git log : hiển thị lịch sử commit theo thời gian cho một repository
+
+git status : trả về trạng thái tại kho lưu trữ (repository)
+git branch : xác định nhánh nào trong local repository, thêm hoặc xóa một nhánh mới
+git checkout : chuyển đổi các chi nhánh
+git merge : Hợp nhất các nhánh với nhau
+git remote : kết nối repository với kho lưu trữ từ xa
+git stash -u : lưu các thay đổi được thực hiện nó chưa ở trạng thái commit đến repository
+git rm --cached : Xóa file hoặc folder khỏi index (staging area)
+
+git cheet sheet : tìm kiếm được lệnh git cần thiết khi làm việc
+
+
+
