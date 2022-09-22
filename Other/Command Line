@@ -1,0 +1,27 @@
+pwd : hiện thư mục hiện tại 
+ls : các file trong thư mục hiện tại 
+ls -la : thông tin chi tiết các file trong thư mục hiện tại 
+ls -lah : thông tin các file trong thư mục hiện tại 
+cd x : di chuyển vào thư mục x trong thư mục hiện tại 
+cd .. : di chuyển ra thư mục trước 
+mkdir x : tạo thư mục x 
+md x1 x2 : tạo mới một hay nhieu thư mục
+rd x1 x2 : xóa một hay nhieu thư mục
+touch x : tạo file x
+del x1 x2 : xóa một hoặc nhiều file
+nano x : mở file x
+vi x : tạo và mở file x
+rm x : xóa file x
+rm *.x : xóa toàn bộ file .x
+cp x1 x2 : copy một file hay thư mục sang một vị trí mới
+cat x : đọc file x
+node x : chạy file node js 
+find . -name "*.json" : hiển thị các file json 
+grep "x" package.json : dòng chứa x
+man grep/ man git : hướng dẫn 
+yarn dev : chạy build project
+code . : mở ide 
+
+
+
+

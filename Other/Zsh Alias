@@ -1,0 +1,9 @@
+alias : các lệnh gõ nhanh và gán lệnh 
+alias hello =  " echo xin chao " : hello hieu = xin chao hieu
+alias ni = "nmp install"
+alias ns = "npm start"
+alias nt = "npm test"
+alias nb = "npm build" 
+alias gcml = "git checkout master && git pull"
+
+
