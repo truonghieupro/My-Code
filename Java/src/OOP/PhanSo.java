@@ -52,7 +52,7 @@ public class PhanSo {
     private Scanner sc = new Scanner(System.in);
     public PhanSo()
     {
-        System.out.println("nhap tu so, mau so ");
+        System.out.println("nhap tu so, mau so");
         setTuSo(sc.nextInt());
         setMauSo(sc.nextInt());
     }
