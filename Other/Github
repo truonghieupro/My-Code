@@ -13,7 +13,7 @@ git merge : Hợp nhất các nhánh với nhau
 git remote : kết nối repository với kho lưu trữ từ xa
 git stash -u : lưu các thay đổi được thực hiện nó chưa ở trạng thái commit đến repository
 git rm --cached : Xóa file hoặc folder khỏi index (staging area)
-git reset --hard : reset cac thay doi
+git reset --hard : reset các thay đổi 
 
 git cheet sheet : tìm kiếm được lệnh git cần thiết khi làm việc
 
