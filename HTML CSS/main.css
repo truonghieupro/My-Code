@@ -14,9 +14,9 @@
 * {
     color: aqua;
 }
-html {
-    color: yellow;
+h1{
+    color: yellow !important;
 }
 li {
-    color: brown;
+    color: brown !important;
 }
